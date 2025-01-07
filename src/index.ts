@@ -66,7 +66,7 @@ const students = [
 ];
 
 const app = express();
-const PORT = 3000;
+const PORT = 8000;
 
 // Middleware for parsing JSON
 app.use(express.json());
